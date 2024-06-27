@@ -1,0 +1,3 @@
+/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/CMakeFiles/pawn_race_cpp.dir

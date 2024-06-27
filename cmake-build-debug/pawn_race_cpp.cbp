@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="pawn_race_cpp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pawn_race_cpp">
+				<Option output="/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/pawn_race_cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Board"/>
+					<Add directory="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Game"/>
+					<Add directory="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Move"/>
+					<Add directory="/Users/Samira/Desktop/C++/pawn_race_cpp/src/PawnRace"/>
+					<Add directory="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Player"/>
+					<Add directory="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Square"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 pawn_race_cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pawn_race_cpp/fast">
+				<Option output="/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/pawn_race_cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Board"/>
+					<Add directory="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Game"/>
+					<Add directory="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Move"/>
+					<Add directory="/Users/Samira/Desktop/C++/pawn_race_cpp/src/PawnRace"/>
+					<Add directory="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Player"/>
+					<Add directory="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Square"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 pawn_race_cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Samira/Desktop/C++/pawn_race_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Board/Board.cpp">
+			<Option target="pawn_race_cpp"/>
+		</Unit>
+		<Unit filename="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Board/Board.h">
+			<Option target="pawn_race_cpp"/>
+		</Unit>
+		<Unit filename="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Game/Game.cpp">
+			<Option target="pawn_race_cpp"/>
+		</Unit>
+		<Unit filename="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Game/Game.h">
+			<Option target="pawn_race_cpp"/>
+		</Unit>
+		<Unit filename="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Move/Move.cpp">
+			<Option target="pawn_race_cpp"/>
+		</Unit>
+		<Unit filename="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Move/Move.h">
+			<Option target="pawn_race_cpp"/>
+		</Unit>
+		<Unit filename="/Users/Samira/Desktop/C++/pawn_race_cpp/src/PawnRace/PawnRace.cpp">
+			<Option target="pawn_race_cpp"/>
+		</Unit>
+		<Unit filename="/Users/Samira/Desktop/C++/pawn_race_cpp/src/PawnRace/PawnRace.h">
+			<Option target="pawn_race_cpp"/>
+		</Unit>
+		<Unit filename="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Player/Player.cpp">
+			<Option target="pawn_race_cpp"/>
+		</Unit>
+		<Unit filename="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Player/Player.h">
+			<Option target="pawn_race_cpp"/>
+		</Unit>
+		<Unit filename="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Square/Square.cpp">
+			<Option target="pawn_race_cpp"/>
+		</Unit>
+		<Unit filename="/Users/Samira/Desktop/C++/pawn_race_cpp/src/Square/Square.h">
+			<Option target="pawn_race_cpp"/>
+		</Unit>
+		<Unit filename="/Users/Samira/Desktop/C++/pawn_race_cpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
